@@ -1,0 +1,35 @@
+body {
+  background-color: #E4E9BE;
+}
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+  border-style: dotted none none;
+}
+
+h1 {
+  color: #A2B38B;
+}
+
+h3 {
+  color: #A2B38B;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+/****Custom selector*****/
+.contacts {
+  height: 30px;
+  width: 30px;
+}
+
+.circular:hover{
+  border-radius: 100%;
+  background-color: gold;
+
+}
